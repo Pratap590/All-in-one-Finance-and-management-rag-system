@@ -5,3 +5,5 @@ langchain-google-genai
 python-dotenv 
 pypdf
 faiss-cpu
+langchain_community
+bs4
